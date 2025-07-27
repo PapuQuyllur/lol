@@ -11,7 +11,7 @@
 	obsidianBusterConfig = "ENABLED"
 	#Restriction for Randomness Enchantment
 	#Allowed Values: DISABLED, ENABLED, TREASURE
-	randomnessConfig = "ENABLED"
+	randomnessConfig = "DISABLED"
 	#Restriction for Magnetic Enchantment
 	#Allowed Values: DISABLED, ENABLED, TREASURE
 	magneticConfig = "ENABLED"
@@ -92,7 +92,7 @@
 	harvestConfig = "ENABLED"
 	#Restriction for Instant Death Enchantment
 	#Allowed Values: DISABLED, ENABLED, TREASURE
-	instantDeathConfig = "ENABLED"
+	instantDeathConfig = "DISABLED"
 	#Restriction for Lighting Enchantment
 	#Allowed Values: DISABLED, ENABLED, TREASURE
 	lightningConfig = "ENABLED"
