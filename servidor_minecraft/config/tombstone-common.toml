@@ -124,7 +124,7 @@
 	#The items that can't be recycled by the Book of Recycling
 	denied_item_to_recycle = []
 	#Allows to disenchant enchanted books with the Book of Disenchantment
-	can_disenchant_enchanted_book = false
+	can_disenchant_enchanted_book = true
 	#Allows lost tablets to find locations outside the current world [false/true|default:true]
 	lost_tablet_search_outside_world = true
 	#Allows lost tablets to find modded structures [false/true|default:true]

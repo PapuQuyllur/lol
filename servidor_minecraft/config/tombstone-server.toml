@@ -6,10 +6,10 @@
 	decay_time = -1
 	#Experience lost on death [0..100|default:95]
 	#Range: 0 ~ 100
-	xp_loss_on_death = 95
+	xp_loss_on_death = 20
 	#The duration of the Ghostly Shape effect in seconds [0..MAX|default:120]
 	#Range: > 0
-	ghostly_shape_duration = 120
+	ghostly_shape_duration = 160
 
 #Allows to customize or disable the enchantments
 [enchantments]
@@ -146,7 +146,7 @@
 #For settings related to magic items
 [magic_item]
 	#Always enchant Grave's Key [false/true|default:false]
-	always_enchant_grave_key = false
+	always_enchant_grave_key = true
 	#Prevents to craft Enchanted Grave Key [false/true|default:false]
 	disable_enchanted_grave_key_recipe = false
 	#Scroll duration [1200..120000|default:12000]
