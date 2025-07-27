@@ -1,0 +1,72 @@
+{
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2025-07-27 01:08:13 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-07-27 01:08:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:snowy_plains": "2025-07-27 01:16:35 +0000",
+      "minecraft:snowy_taiga": "2025-07-27 01:08:14 +0000",
+      "minecraft:snowy_beach": "2025-07-27 01:16:43 +0000"
+    },
+    "done": false
+  },
+  "corail_recycler:tutorial/root": {
+    "criteria": {
+      "auto": "2025-07-27 01:08:14 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2025-07-27 01:09:10 +0000"
+    },
+    "done": true
+  },
+  "corail_recycler:recipes/recycler": {
+    "criteria": {
+      "requirement_1": "2025-07-27 01:09:11 +0000"
+    },
+    "done": false
+  },
+  "paraglider:root": {
+    "criteria": {
+      "crafting_table": "2025-07-27 01:09:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-07-27 01:09:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-07-27 01:12:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "porkchop": "2025-07-27 01:15:33 +0000",
+      "rotten_flesh": "2025-07-27 01:16:27 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-07-27 01:15:33 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
